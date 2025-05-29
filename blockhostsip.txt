@@ -1,17 +1,10 @@
 # Title: BlockHosts (Pro)
 # Last modified: 2025-05-29T07:41:00.453Z
-# Homepage: 
+#  
 # ..............
 #  |Count: 258,339 rules!
 #  |Size: 6.23 MB
 #  |
-#  |Credits & ©:
-#  |Licence: MPLv2,
-#  | https://www.mozilla.org/en-US/MPL/2.0/
-#  /
-# ( 
-#  \......................................
-#  | 
 #  \____________________
 
 events.data.microsoft.com
